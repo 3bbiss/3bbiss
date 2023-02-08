@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [aliabbiss5@gmail.com](mailto:aliabbiss5@gmail.com)
 * 🧠  I'm learning Advanced Angular and a bit of three.js!
 * 🤝  I'm open to collaborating on professional growth, mentorship, and development.
-* ⚡  My academic background is in Information Technology B.S. but I have a keen interest in software.
+* ⚡  My academic background is in Information Technology B.S. but I have a keen interest agile project management.
 
 ### Skills
 
