@@ -24,12 +24,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
     </a>
-    <!-- Copy and paste below this line to add a new icon -->
     <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="36" height="36" alt="JIRA" />
     </a>
-    <!-- Copy and paste above this line to add a new icon -->
 </p>
+
 
 
 
